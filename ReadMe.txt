@@ -6,3 +6,5 @@ To investigate the whole project, follow this steps:
 2. Run angular2Proj. You need to install npm packages, simply by writing command
 in console (that launched in directory of this project) "npm i". 
 Then write "ng serve".
+
+DataBaseCreationFile attached.
