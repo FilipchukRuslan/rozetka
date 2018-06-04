@@ -1,0 +1,6 @@
+c:\users\filip\source\repos\Rozetka_test_exercise\Model\bin\Debug\Model.dll
+c:\users\filip\source\repos\Rozetka_test_exercise\Model\bin\Debug\Model.pdb
+c:\users\filip\source\repos\Rozetka_test_exercise\Model\obj\Debug\Model.csprojAssemblyReference.cache
+c:\users\filip\source\repos\Rozetka_test_exercise\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+c:\users\filip\source\repos\Rozetka_test_exercise\Model\obj\Debug\Model.dll
+c:\users\filip\source\repos\Rozetka_test_exercise\Model\obj\Debug\Model.pdb
