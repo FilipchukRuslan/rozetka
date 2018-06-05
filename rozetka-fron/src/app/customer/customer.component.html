@@ -1,0 +1,15 @@
+<div class="row back-title">
+        <h5 class="col-lg-1 title">Id</h5>
+        <h5 class="col-lg-2 title">Имя</h5>
+        <h5 class="col-lg-2 title">Фамилия</h5>
+        <h5 class="col-lg-2 title">Отчество</h5>
+      </div>
+    
+    <div *ngFor="let customer of customers; let i = index;">
+      <div class="row back-field-ne">
+        <a [routerLink]="['/profile', customer.Id ]" class="col-lg-1 back-field">{{customer.Id}}</a>
+        <a [routerLink]="['/profile', customer.Id ]" class="col-lg-2 back-field">{{customer.FName}}</a>
+        <a [routerLink]="['/profile', customer.Id ]" class="col-lg-2 back-field">{{customer.MName}}</a>
+        <a [routerLink]="['/profile', customer.Id ]" class="col-lg-2 back-field">{{customer.LName}}</a>
+      </div>
+    </div>
